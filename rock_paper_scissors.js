@@ -74,7 +74,7 @@ if (btnscissors) {
         }
         if(computer_choice === 'Rock'){
             score = score;
-            alert(`Your choice - ${user_choice}, Computer choice - ${computer_choice}, You loss! ${score}`);
+            alert(`Your choice - ${user_choice}, Computer choice - ${computer_choice}, You lose! ${score}`);
         }
 
     });
